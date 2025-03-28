@@ -104,7 +104,7 @@ export default function FinansxLandingPage() {
             height={40}
             className="rounded-lg"
           />
-          <h1 className="text-2xl font-bold text-blue-300">Finansx</h1>
+          <h1 className="text-2xl font-bold text-white">FinansX</h1>
         </div>
         <div>
           <a
@@ -186,7 +186,7 @@ export default function FinansxLandingPage() {
       {/* Features Section Enhanced */}
       <section className="container mx-auto px-4 py-16">
         <h3 className="text-4xl font-bold text-center text-blue-300 mb-16 bg-clip-text text-transparent bg-gradient-to-r from-blue-300 to-blue-500">
-          Neden Finansx?
+          Neden FinansX?
         </h3>
         <div className="grid md:grid-cols-4 gap-8">
           <div className="bg-gray-800 p-6 rounded-xl shadow-lg text-center hover:bg-gray-700 transition group">
@@ -253,7 +253,7 @@ export default function FinansxLandingPage() {
       {/* Enhanced Features Section */}
       <section className="container mx-auto px-4 py-16">
         <h3 className="text-4xl font-bold text-center text-blue-300 mb-16 bg-clip-text text-transparent bg-gradient-to-r from-blue-300 to-blue-500">
-          Finansx ile Geleceğinizi Şekillendirin
+          FinansX ile Geleceğinizi Şekillendirin
         </h3>
         <div className="grid md:grid-cols-2 gap-8">
           {features.map((feature, index) => (
@@ -296,7 +296,7 @@ export default function FinansxLandingPage() {
               Finansal Gücünüzü Şimdi Keşfedin
             </h3>
             <p className="text-xl mb-10 text-gray-200 leading-relaxed">
-              Finansx ile yatırımlarınızı daha akıllıca yönetin. Güncel veriler,
+              FinansX ile yatırımlarınızı daha akıllıca yönetin. Güncel veriler,
               detaylı analizler ve güvenli kullanım bir tık uzağınızda.
             </p>
             <div className="flex justify-center space-x-4">
@@ -336,7 +336,7 @@ export default function FinansxLandingPage() {
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-4 gap-8">
             <div>
-              <h4 className="text-xl font-bold text-blue-300 mb-4">Finansx</h4>
+              <h4 className="text-xl font-bold text-blue-300 mb-4">FinansX</h4>
               <p className="text-gray-400">
                 Finansal verilerinizi akıllıca yönetin, geleceğinizi
                 şekillendirin.
@@ -376,7 +376,7 @@ export default function FinansxLandingPage() {
           </div>
           <div className="border-t border-gray-800 mt-8 pt-6 text-center">
             <p className="text-gray-500">
-              © {new Date().getFullYear()} Finansx. Tüm hakları saklıdır.
+              © {new Date().getFullYear()} FinansX. Tüm hakları saklıdır.
             </p>
           </div>
         </div>
