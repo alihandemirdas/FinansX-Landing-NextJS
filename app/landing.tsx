@@ -129,7 +129,7 @@ export default function FinansxLandingPage() {
                 <Star className="text-yellow-400 fill-yellow-400" size={24} />
                 <Star className="text-yellow-400 fill-yellow-400" size={24} />
                 <Star className="text-yellow-400 fill-yellow-400" size={24} />
-                <span className="text-gray-300 ml-2">(4.8)</span>
+                <span className="text-gray-300 ml-2">(5.0)</span>
               </div>
               <h2 className="text-[2.5rem] font-extrabold text-blue-200 mb-6 leading-tight bg-clip-text text-transparent bg-gradient-to-r from-blue-300 to-blue-500">
                 Finansal Gücünüzü Dijital Olarak Keşfedin
@@ -153,7 +153,7 @@ export default function FinansxLandingPage() {
                   <span>App Store</span>
                 </a>
                 <a
-                  href="https://play.google.com/store/apps/details?id=com.katreo.finansxŞ"
+                  href="https://play.google.com/store/apps/details?id=com.katreo.finansx"
                   target="_blank"
                   className="bg-white text-black px-6 py-3 rounded-full hover:bg-gray-100 transition flex items-center space-x-2"
                 >
@@ -368,7 +368,7 @@ export default function FinansxLandingPage() {
                 İletişim
               </h4>
               <p className="text-gray-400">
-                destek@finansx.com
+                katreodigital@gmail.com
                 <br />
                 +90 (212) 123 45 67
               </p>
